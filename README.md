@@ -1,0 +1,2 @@
+# learn-sql
+Daily practice
